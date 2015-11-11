@@ -19,7 +19,8 @@ Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthaste
 - 1 teaspoon salt
 - 2 teaspoons pure vanilla extract
 - 2 large eggs
-
+- 15 peaches
+- 13.5 sprinkles
 
 ##Dry Ingredients
 - 2 1/4 cups all-purpose flour
